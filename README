@@ -2,10 +2,10 @@
    可用于学校考场分布开发的参考。
    
 2、版本说明：
-python			3.6
-PyCharm			2019.2
-openpyxl        3.0.3
-PyInstaller     3.6
+python       3.6
+PyCharm      2019.2
+openpyxl     3.0.3
+PyInstaller  3.6
 
 3、打包方式，参考INSTALL说明
 
