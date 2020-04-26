@@ -180,7 +180,7 @@ frame.pack(side=tk.BOTTOM, expand = tk.YES, fill=tk.NONE, anchor='sw')
 xx_label = tk.Label(frame, height=15)
 xx_label.pack()
 
-banquan_label = tk.Label(frame, text="版权归大牛[niujianqun@126.com]所有，仅用于考场分布，使用须经本人同意，违者必究。", height=100, width=75)
-banquan_label.pack()
+#banquan_label = tk.Label(frame, text="版权归大牛[niujianqun@126.com]所有，仅用于考场分布，使用须经本人同意，违者必究。", height=100, width=75)
+# banquan_label.pack()
 
 win.mainloop()
