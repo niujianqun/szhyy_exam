@@ -1,0 +1,12 @@
+1、本系统功能主要是根据学生成绩单.xls，生成考场分布、班级分布、考场考号三个excel，可视化操作（tkinter）
+   可用于学校考场分布开发的参考。
+   
+2、版本说明：
+python			3.6
+PyCharm			2019.2
+openpyxl        3.0.3
+PyInstaller     3.6
+
+3、打包方式，参考INSTALL说明
+
+4、bin目录下为打包的exe程序及成绩单模板

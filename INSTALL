@@ -1,0 +1,1 @@
+pyinstaller -Fw -i home.py
